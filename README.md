@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0881-boats-to-save-people) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0881-boats-to-save-people) |
+## Hash Table
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
