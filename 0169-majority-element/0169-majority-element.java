@@ -14,7 +14,7 @@ class Solution {
     int max = Integer.MIN_VALUE ; 
      for(int  i  :  nums){
             if(max < map.get(i)){
-                 max  =  map.get(i);
+                 max  =  Math.max(max, map.get(i));
                   ans  =  i;
             }
             
