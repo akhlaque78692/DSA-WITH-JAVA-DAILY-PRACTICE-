@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0881-boats-to-save-people) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
