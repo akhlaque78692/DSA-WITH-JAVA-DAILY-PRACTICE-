@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0611-valid-triangle-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0881-boats-to-save-people) |
@@ -39,16 +41,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0217-contains-duplicate) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
