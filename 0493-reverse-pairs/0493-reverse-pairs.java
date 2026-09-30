@@ -25,15 +25,14 @@ class Solution {
          int right  =  mid+1;
          int  i = 0 ;
 
-         int j = mid+1;
+         int j = right;
 
-        for(int s = l; s <= mid; s++) {
-while(j <= r && arr[s] > 2L * arr[j]){
-                j++;
-            }
-
-            count += j - (mid + 1);
-        }
+          for(int  s = l ; s<=mid   ;  s++){
+               while(j<=r && arr[s]> 2L*arr[j]){
+                      j++;
+               }
+               count+= j-(mid+1);
+          }
 
          while(left<=mid && right<=r){
                 
