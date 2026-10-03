@@ -16,6 +16,7 @@
 class Solution {
     int  k ;
     int ans ; 
+    boolean found =false ; 
 
     public int  kthSmallest(TreeNode root, int k){
           ans  = 0 ;
@@ -25,14 +26,18 @@ class Solution {
          
     }
     public void Smallest(TreeNode root ) {
-             if(root==null){
+             if(root==null|| found){
                  return;
              }
              
+             if(found){
+                return;
+             }
              Smallest(root.left );
                k=k-1;
                if(k==0){
                 ans  = root.val;
+                found  =  true;
                 return ;
              }
              Smallest(root.right );
