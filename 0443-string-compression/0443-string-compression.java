@@ -10,11 +10,13 @@ class Solution {
                          count++;
                          j++;
                     }
-                    arr[index++] =  arr[i];
+                    arr[index] =  arr[i];
+                    index++;
                     if(count>1){
                     String s  = String.valueOf(count);
                      for(int  k  = 0 ; k< s.length() ;  k++){
-                               arr[index++] = s.charAt(k);
+                               arr[index] = s.charAt(k);
+                               index++;
                      }
 
                     }
