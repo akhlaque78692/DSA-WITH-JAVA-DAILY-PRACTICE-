@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0416-partition-equal-subset-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
