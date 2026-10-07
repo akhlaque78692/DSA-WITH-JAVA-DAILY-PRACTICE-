@@ -4,18 +4,9 @@ class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
          List<String> list  =  new ArrayList<>();
          int count = 0 ;
-               for(int  i   = 0  ;  i<s.length() ; i++){
-                    String str = "";
-                    int n  =  10+i;
-                    
-                        if(n<=s.length()){
-                    
-                         str = s.substring(i ,  n);
-                        }
-                      
-                    
-                    
-                    if(!str.equals("") && map.containsKey(str) ){
+               for(int  i   = 0  ;  i<=s.length()-10 ; i++){  
+                  String  str = s.substring(i ,  10+i); 
+                    if( map.containsKey(str) ){
                           if(map.get(str)<2){
                             list.add(str);
 
