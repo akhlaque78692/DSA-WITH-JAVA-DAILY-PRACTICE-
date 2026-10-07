@@ -6,7 +6,11 @@ class Solution {
            Stack<Integer>  stack  = new Stack();
            for(int i = 0 ;   i < arr.length  ; i++  ){
                  min  =arr[i];
-                  if(stack.isEmpty() || stack.peek()>arr[i]){
+                  if(!stack.isEmpty() && stack.peek()>arr[i]){
+                         stack.pop();
+                         stack.push(arr[i]);
+                  }
+                   else if(stack.isEmpty()){
                          stack.push(arr[i]);
                   }
                   else{
