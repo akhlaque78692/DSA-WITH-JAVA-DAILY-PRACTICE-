@@ -1,25 +1,14 @@
 class Solution {
-    public int maxProfit(int[] arr) {
-          int min  = 0 ;
-          int max =  Integer.MIN_VALUE;
-        //   HashSet<Integer>  set  =  new Hahset<>();\
-           Stack<Integer>  stack  = new Stack();
-           for(int i = 0 ;   i < arr.length  ; i++  ){
-                 min  =arr[i];
-                  if(!stack.isEmpty() && stack.peek()>arr[i]){
-                         stack.pop();
-                         stack.push(arr[i]);
-                  }
-                   else if(stack.isEmpty()){
-                         stack.push(arr[i]);
-                  }
-                  else{
-                       max  =  Math.max(max, arr[i]-stack.peek());
-                  }
-           }
-           if(max<0){
-             return 0;
-           }
-           return max;
+    public int maxProfit(int[] prices) {
+        int n= prices.length;
+        int miniprice = Integer.MAX_VALUE;
+        int profit = 0;
+        int best_profit=0;
+        for(int i=0;i<n;i++){
+            miniprice=Math.min(miniprice,prices[i]);
+            profit = prices[i] - miniprice;
+            best_profit = Math.max(best_profit,profit);
+        }
+        return best_profit;
     }
 }
