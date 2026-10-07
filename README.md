@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/akhlaque78692/DSA-WITH-JAVA-DAILY-PRACTICE-/tree/master/1143-longest-common-subsequence) |
