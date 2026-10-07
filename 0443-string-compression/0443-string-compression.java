@@ -12,7 +12,7 @@ class Solution {
                     }
                     arr[index++] =  arr[i];
                     if(count>1){
-                    String s  = ""+count;
+                    String s  = String.valueOf(count);
                      for(int  k  = 0 ; k< s.length() ;  k++){
                                arr[index++] = s.charAt(k);
                      }
