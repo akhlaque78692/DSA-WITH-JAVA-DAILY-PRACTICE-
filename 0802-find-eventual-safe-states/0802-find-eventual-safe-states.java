@@ -19,11 +19,14 @@ class Solution {
             
             for(int i = 0 ;   i <  n  ;  i++){
                 // Stack<Integer>  stack  =  new Stack<>();
-                
+                   
+
+                   
                     // arr[i]==1;
                    if(dfs(adj , arr,  i)){
                        list.add(i);
-                   };
+                   }
+                   
                 
             }
              return list;
